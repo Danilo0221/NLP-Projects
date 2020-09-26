@@ -1,0 +1,4 @@
+Pre-procesamiento del texto
+Uso de Word2Vec (Consejo: jugar con los parámetros)
+Mostrar las palabras más parecidas (most_similar) de tres palabras que le llamen la atención
+Visualizar el modelo usando PCA
