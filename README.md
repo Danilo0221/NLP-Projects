@@ -1,3 +1,3 @@
 # NLP-Projects
 Repository of my NLP projects
-Mi nombre es Xiomy Díaz y estoy haciendo una especialización en analítica estratégica de datos
+My name is Xiomy Díaz and I am doing a specialization in strategic data analytics, in this repository there are text processing exercises carried out in Python
