@@ -1,0 +1,1 @@
+Para entender la caída en post link clics de una cuenta de radio de Facebook en julio vs junio, luego de que Facebook implementara un algortimo para castigar el clickbait, se analizó el nivel de subjetividad de las publicaciones, y también se aplicó LDA con pyLDAvis, y con GSDMM, obteniendo mejores resultados con éste último al ser el adecuado para textos cortos.
